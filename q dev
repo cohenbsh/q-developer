@@ -1,0 +1,31 @@
+use q developer to generate code 
+Please create a Python function called summarize_figures that:
+
+Takes a list or array of numerical values as input
+
+Calculates key statistical measures including:
+
+Mean
+Median
+Mode
+Range
+Standard deviation
+Quartiles (Q1, Q2, Q3)
+Identifies and explains the order of the data by:
+
+Determining if the sequence is ascending, descending, or neither
+Finding any patterns in the numbers
+Calculating the step size between values (if consistent)
+Returns a dictionary containing:
+
+All calculated statistical measures
+Order analysis results
+A brief text summary of the findings
+Requirements:
+
+Use NumPy and/or statistics libraries for calculations
+Include proper error handling for invalid inputs
+Add clear documentation and comments
+Provide example usage with sample data
+Ensure the function is efficient for both small and large datasets
+Please provide the implementation along with example usage and test cases.
